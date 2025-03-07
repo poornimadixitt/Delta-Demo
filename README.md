@@ -1,3 +1,8 @@
 # Delta-Demo
 My git and github classes.
-Sigma.
+
+# Teacher
+Shradha Didi
+
+# Student
+Poornima Dixit
